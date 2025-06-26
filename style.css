@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 
 :root {
-    --cor-destaque: #924c92;
+    --cor-destaque: #3d1753;
     --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #4182a3 44.96%, #1E2022 100%);
 }
 
@@ -67,7 +67,7 @@ h1 {
     border-radius: 0.5rem;
     border: none;
     background: var(--cor-destaque);
-    color: #103252;
+    color: #1d012e;
     font-size: 2.5rem;
     font-weight: 500;
     line-height: normal;
